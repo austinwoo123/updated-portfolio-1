@@ -134,6 +134,7 @@ border-color: white;
 .project-icons1{
     font-size:50px;
     
+    
 }
 .project-icons1 a{
     color:white;
@@ -155,8 +156,40 @@ border-color: white;
 
 .work img {
     margin: 1%;
-    width: 45%;
+    width: 30%;
 }
+
+.project2{
+    text-align: left;
+    font-weight: 100;
+    letter-spacing: 6;
+    font-size: 80px;
+    color:white
+
+}
+header {
+    text-align: left;
+    margin: 50px 0 100px 120px;
+}
+
+.project1 {
+    text-align: center;
+    font-weight: 100;
+    letter-spacing: 6;
+    font-size: 80px;
+    color:white
+}
+
+.work2 {
+    text-align: center;
+    width: 100%;
+}
+
+.work2 img {
+    margin: 1%;
+    width: 30%;
+}
+
 
 .project2{
     text-align: center;
@@ -164,6 +197,21 @@ border-color: white;
     letter-spacing: 6;
     font-size: 80px;
     color:white
-
-
 }
+
+.project3{
+    text-align: center;
+    font-weight: 100;
+    letter-spacing: 6;
+    font-size: 80px;
+    color:white
+}
+/* .header2{
+    text-align: center;
+    font-weight: 100;
+    letter-spacing: 6;
+    font-size: 80px;
+    color:white
+
+} */
+
